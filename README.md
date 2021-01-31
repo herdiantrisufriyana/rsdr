@@ -18,4 +18,4 @@ Read vignette for simple example in R</a>
 
 <a href="https://github.com/herdiantrisufriyana/rsdr/blob/main/vignettes/quick-start.R">Download R script</a>
 
-<a href="https://github.com/herdiantrisufriyana/medhist/blob/main/man/rsdr_0.1.0.pdf">Reference manual</a>
+<a href="https://github.com/herdiantrisufriyana/rsdr/blob/main/man/rsdr_0.1.0.pdf">Reference manual</a>
