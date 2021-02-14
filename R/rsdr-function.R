@@ -144,8 +144,8 @@ rsdr=function(data
     dmr$rotm=
       dmr[[rotm_name]] %>%
       `dimnames<-`(list(names(avg),paste0(prefix,seq(length(avg)))))
-
-    list(avg=avg,std=std,dmr=dmr)
+    
+    list(avg=avg,std=std,dmr=dmr['rotm'])
   }
   
   cat('Started:',as.character(now()),'\n')
